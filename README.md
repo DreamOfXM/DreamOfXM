@@ -2,6 +2,10 @@
 
 Indie developer shipping native Mac apps, AI-assisted tools, and web experiments — and open-sourcing the engine of everything I build.
 
+#### 🏠 Home base
+
+- **[dreamofxm.pages.dev](https://dreamofxm.pages.dev/)** — my home on the web: everything I've made, a bookshelf, and notes along the way.
+
 #### 🖥 Mac & native
 
 - **[DiskWise](https://github.com/DreamOfXM/diskwise)** — free, open-source disk cleaner whose **only delete path is the Trash** (no `rm -rf` anywhere in the codebase). Native SwiftUI, ring-map overview, per-cache knowledge base, zero telemetry. `brew install --cask dreamofxm/diskwise/diskwise` · [product page](https://dreamofxm.github.io/diskwise/) — *currently my main focus*
